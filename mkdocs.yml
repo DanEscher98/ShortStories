@@ -31,6 +31,9 @@ theme:
     - python
     - bash
 
+extra:
+  generator: false
+
 markdown_extensions:
   - codehilite
   - tables

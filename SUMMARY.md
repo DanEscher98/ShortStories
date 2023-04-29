@@ -1,4 +1,3 @@
-- [](0_preface.md)
 - [Sala con alfombra](1_SalaConAlfombra.md)
 - [Camino de setos](2_CaminoDeSetos.md)
 - [El cantaro calcinado](3_ElCantaroCalcinado.md)
