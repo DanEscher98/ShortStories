@@ -41,6 +41,8 @@ markdown_extensions:
   - def_list
   - smarty
   - sane_lists
+  - attr_list
+  - md_in_html
   - toc:
       permalink: True
   - pymdownx.arithmatex:

@@ -18,12 +18,15 @@ de día o andar de noche. ¿Pudiste ver el fin de nuestro andar? Al
 menos las luciérnagas nadan fielmente a nuestro lado. Gracias ... por
 el tiempo."
 
+
+![Fumarolas marinas](img/corrientes-a.png){ width="200" align=right }
 Imponentes torres los rodean, fumarolas marinas de cuyas humeantes
 volutas caen apacibles hojas. Hambre no es lo que tenía, ni siquiera
 real cansancio. Tan sólo la incertidumbre de si algún día llegarían.
 Saboreó el momento. Era su preferido, tenía pasas. Estaba endulzado
 con miel y había sido horneado a fuego lento. Alzó la mirada, miró a
 su costado. Tan oceánico abismo podía ser la noche.
+
 
 -- "Creo que olvidé el sueño. Pero era feliz pues mirábamos al
 unísono. Oh, era a través de la claraboya de un navío naufragado, que
