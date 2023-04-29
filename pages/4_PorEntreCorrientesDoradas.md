@@ -1,4 +1,4 @@
-# Por entre las corrientes doradas
+# Por entre corrientes doradas
 
 Dos siluetas son las que caminan. Una lleva sombrero, la otra un bolso
 de algas tejidas. Sus pies descalzos dejan tenues huellas en el manto
