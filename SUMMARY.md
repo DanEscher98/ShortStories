@@ -8,6 +8,4 @@
 - [Edificio Gris](7_EdificioGris.md)
 - [Mosaico en cuatro estampas](8_MosaicoCuatroEstampas.md)
 - [Laboratorio tres](9_LaboratorioTres.md)
-- [Desierto](10_Desierto.md)
-- [Notes](11_Tue09-Aug-22:MyNotes.md)
 
