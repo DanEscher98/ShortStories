@@ -1,6 +1,6 @@
 # Sala minimalista con alfombra azul
 
-![faro](img/sala-b.png){ width=300 align=right }
+![faro](img/sala-c.png){ width=350 align=right }
 <font size="+2">¿P</font>uede
 alguien imaginar la tentación de un niño? Que observa la cartulina teniendo en
 su mano una cajita de crayolas nuevas. Su mamá no se había molestado en tirar
