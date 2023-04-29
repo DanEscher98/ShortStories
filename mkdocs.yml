@@ -1,9 +1,11 @@
-site_name: Thoughts
+site_name: Short Stories
 site_author: Danyiel Colin
 docs_dir: pages
 
 theme:
   name: material
+  font:
+    text: Libre Baskerville
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
