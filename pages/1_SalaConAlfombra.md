@@ -1,4 +1,4 @@
-# Sala minimalista con alfombra azul
+# Sala con alfombra azul
 
 ![faro](img/sala-c.png){ width=350 align=right }
 <font size="+2">¿P</font>uede
