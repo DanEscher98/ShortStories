@@ -1,5 +1,7 @@
 # Pasillo 5, laboratorio No.3
 
+<p style="margin-left:25px;"><em>A Diego</em></p>
+
 -- No se ocupan muchos valores, ¿cierto? -- dijo el practicante antes de
 comenzar las mediciones.
 

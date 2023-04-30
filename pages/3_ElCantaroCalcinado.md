@@ -1,5 +1,7 @@
 # El cántaro calcinado
 
+<p style="margin-left:25px;"><em>A Marian</em></p>
+
 -- "Son como rasguños sobre una pizarra, pero con timbre de gotas de
     lluvia."
 
