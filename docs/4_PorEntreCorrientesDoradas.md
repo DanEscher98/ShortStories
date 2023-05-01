@@ -6,10 +6,13 @@
 siluetas son las que caminan. Una lleva sombrero, la otra un bolso de algas
 tejidas. Sus pies descalzos dejan tenues huellas en el manto de hojas.
 
+![Calamar](img/corrientes-e.png){ width="200" align=left }
 -- "Quizás debí hacerte caso y traer el quinqué en lugar de esto. Había
 entonces un brillante sol. ¿Cómo lo iba a saber yo? En un momento se tornó de
 tinta. Es el cielo un calamar tan miedoso."
 
+
+![RelojEsponjoso](img/corrientes-b.png){ width="150" align=right }
 -- "Tal vez, pero entonces no podrías haberme prestado tu sombrero. Para
 cubrirme el rostro, para dormir apacible en aquel prado. Toma, llevo guardadas
 varias hogazas todavía. Siguen crujientes y aún les giran sus manecillas."
@@ -19,7 +22,7 @@ andar de noche. ¿Pudiste ver el fin de nuestro andar? Al menos las luciérnagas
 nadan fielmente a nuestro lado. Gracias ... por el tiempo."
 
 
-![Fumarolas marinas](img/corrientes-a.png){ width="200" align=right }
+![Fumarolas marinas](img/corrientes-c.png){ width="200" align=left }
 Imponentes torres los rodean, fumarolas marinas de cuyas humeantes volutas caen
 apacibles hojas. Hambre no es lo que tenía, ni siquiera real cansancio. Tan
 sólo la incertidumbre de si algún día llegarían. Saboreó el momento. Era su

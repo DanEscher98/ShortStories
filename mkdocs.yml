@@ -1,6 +1,10 @@
 site_name: Antología asíncrona
 site_author: Danyiel Colin
-docs_dir: pages
+repo_name: DanEscher98/ShortStories
+repo_url: https://github.com/DanEscher98/ShortStories
+copyright: Copyright &copy; 2020 - 2023 Danyiel Colin
+site_description: >-
+  Cuentos cortos y un par de poemas
 
 theme:
   name: material
