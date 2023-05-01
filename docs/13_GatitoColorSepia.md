@@ -1,7 +1,6 @@
 # Gatito color sepia
 
-<font size="+2">Y</font>o
-lo veo y le digo: "Hola gato". Él me ve y se acerca tranquilo. Silbo como
+Yo lo veo y le digo: "Hola gato". Él me ve y se acerca tranquilo. Silbo como
 pájaro y comienza a ronronear.
 
 Es pequeño y huidizo. Le teme en especial a un gato pardo con motas, que lo

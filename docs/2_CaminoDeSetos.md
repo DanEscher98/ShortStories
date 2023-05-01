@@ -1,16 +1,14 @@
 # Camino de setos
 
 
-<p style="margin-left:25px;"><em>A Shakti</em></p>
-
-<font size="+3">S</font>intiendo
-cómo el aire se escurría por entre las hojas, escabulléndose en aquellos
-corredores verdes, caminaba ella y pensaba en lo feliz de estar bajo la sombra
-de una nube en día soleado. ¿Cuánto tiempo caminando? "*Eso es algo que ya no
-sé*", pensó para sus adentros. Observó la rebelión del cirro, que extendía sus
-alas y se libraba de las cadenas, de la torre de su encierro. Y los cúmulos de
-cruzados níveos tratando de regresarlo al nadir. Nubes belicosas, enfrascadas
-en su celeste juego.
+<!--A Shakti-->
+Sintiendo cómo el aire se escurría por entre las hojas, escabulléndose en
+aquellos corredores verdes, caminaba ella y pensaba en lo feliz de estar bajo
+la sombra de una nube en día soleado. ¿Cuánto tiempo caminando? "*Eso es algo
+que ya no sé*", pensó para sus adentros. Observó la rebelión del cirro, que
+extendía sus alas y se libraba de las cadenas, de la torre de su encierro. Y
+los cúmulos de cruzados níveos tratando de regresarlo al nadir. Nubes
+belicosas, enfrascadas en su celeste juego.
 
 ![plantas](img/setos-b.png){ align=right width=190}
 Al bajar los ojos, mira las paredes de imperiosos setos que la rodeaban. Pensó

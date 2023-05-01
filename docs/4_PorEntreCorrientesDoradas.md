@@ -1,9 +1,8 @@
 # Por entre corrientes doradas
 
-<p style="margin-left:25px;"><em>A Pechi 🐚༄</em></p>
+<!--A Pechi 🐚༄ -->
 
-<font size="+2">D</font>os
-siluetas son las que caminan. Una lleva sombrero, la otra un bolso de algas
+Dos siluetas son las que caminan. Una lleva sombrero, la otra un bolso de algas
 tejidas. Sus pies descalzos dejan tenues huellas en el manto de hojas.
 
 ![Calamar](img/corrientes-e.png){ width="200" align=left }

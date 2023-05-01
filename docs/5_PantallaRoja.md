@@ -1,7 +1,6 @@
 # Pantalla roja
 
-<font size="+2">L</font>a
-bóveda celeste y sus luminarias ciclistas en perenne carrera. Vio brevemente
+La bóveda celeste y sus luminarias ciclistas en perenne carrera. Vio brevemente
 tras la claraboya, introdujo un par de comandos y silenciosamente se abrió la
 puerta. Se hallaban surcando entre el vacío. Habían pasado ya el terror del
 cinturón de asteroides. Se desplazó con habilidad por entre los pasillo de la

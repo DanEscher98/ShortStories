@@ -1,8 +1,6 @@
 # Optimismo visto de lejos
 
-
-<font size="+2">C</font>on
-cansancio bajó las escaleras, se acomodó las gafas y abrió la puerta de calle.
+Con cansancio bajó las escaleras, se acomodó las gafas y abrió la puerta de calle.
 En la acera contraria, la banca de madera había esperado con ansia ver de nuevo
 cómo abría su flor el edificio de enfrente. Pero en lugar de librar perfume, el
 antes optimista se mostraba perdido.
