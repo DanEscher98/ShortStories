@@ -17,3 +17,10 @@ div.poem {
   overflow-x: scroll;
   width: 100%;
 }
+
+@media screen and (max-width: 600px) {
+  div.poem {
+    margin-left: 8%;
+    padding-right: 5%;
+  }
+}
