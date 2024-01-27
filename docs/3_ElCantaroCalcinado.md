@@ -6,11 +6,11 @@
     lluvia."
 
 Se recargó un poco más en la silla y siguió viendo tras la ventana.
-Afuera estaba aún húmeda la calle, pero se combinaba con un hermoso
+Afuera estaba aún húmeda la calle. Combinaba con un hermoso
 tinte de alba. Convergía en la lejanía con la guarida de las escamas
 aladas. Tras él, se iba iluminado su repisa. La pupila celeste
 observaba su colección de porcelana que, a pesar de estar
-quebrada y llena de tizne, conservaba sus hermosos colores.
+quebrada y llena de tizne, conservaba aún sus colores.
 
 -- "Ni siquiera pude encender el agua para cocer el arroz. Me pregunto
     cómo llegó hasta aquí."
@@ -34,4 +34,4 @@ estaba muerto. Pero ya no había mas que polvo. Cenizas de crematorio.
 Ahora sólo le queda la esperanza de hallar el cómo grabar memorias con
 sus espectrales dedos de gasa y retoñar él también.
 
--- "*¿Habrá tenido nombre el dragón?*"
+-- "*¿Habrá ... tenido nombre el dragón?*"

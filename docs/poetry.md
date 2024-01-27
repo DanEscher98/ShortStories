@@ -42,18 +42,18 @@ consumió a la flor.
 ## Limericks y clerihews
 
 <div class="poem">
-El buho cejon, le teme al formol.
-Libro, pluma y tintero son crisol,
+El búho cejón, le teme al formol.
+Libro, pluma, tintero como crisol;
     donde memorias funde
     del olvido se esconde.
-De sauce su casa, es español.
+Casa de sauce, el búho español.
 </div>
 ---
 <div class="poem">
 Teclado tristón, polvoso te ves.
     ¿Perdiste el space? Tu culpa no es.
 Cactus golpeó, marca Dino seis mil.
-    Destino, mártir por corte wifi.
+    Destino, mártir por corte wifí.
 </div>
 
 
