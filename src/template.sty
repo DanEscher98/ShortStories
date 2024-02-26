@@ -1,0 +1,93 @@
+\usepackage{verse}
+\usepackage[
+	fencedCode,         % Enable the commonmark fenced code block extension
+	hashEnumerators,    % Use hash symbols (#.) as ordered item list markers
+	inlineFootnotes,    % Enable the pandoc inline footnote syntax extension
+	footnotes,          % Enable the pandoc footnote syntax extension
+	html,               % Enable the recognition of HTML markup
+	contentBlocks,      % Enable the iAWriter content blocks syntax extension
+	citations,          % Enable the pandoc citation syntax extension
+	definitionLists,    % Enable the pandoc definition list syntax extension
+	%relativeReferences, % Enable relative references in autolinks
+	%jekyllData,         % A markdown document may begin with yaml metadata
+	hybrid=true,             % Disable the escaping of special plain TEX characters
+	%taskLists,          % Pandoc task_lists syntax extension.
+	pipeTables,         % Enable the php Markdown table syntax extension
+	tableCaptions       % Pandoc table_captions syntax extension for pipe tables
+]{markdown}                     % Necesaria para incluir archivos md
+\usepackage[utf8]{inputenc}	    % Importante para escribir acentos
+\usepackage[T1]{fontenc}
+\usepackage{indentfirst}        % Para indentar el primer parrafo
+\usepackage{blindtext}          % Permite incorporar archivos externos
+\usepackage{tabularx}
+\usepackage{xifthen}            % Aqui se encuentra la macro \IfFileExists
+\usepackage{tikz}               % Aqui se encuentra la macro \foreach
+\usepackage[ddmmyyyy]{datetime}
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{semantic}
+\usepackage{bookmark}
+%\usepackage{verbatim}
+%\usepackage{minted}
+\usepackage{listings, listings-rust}
+\usepackage{xcolor}
+\usepackage[english]{babel}
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=black,
+	filecolor=magenta,
+	urlcolor=cyan
+}
+
+\renewcommand{\markdownRendererHeadingOne}[1]{
+	\section*{#1}
+	\addcontentsline{toc}{section}{\protect\numberline{}#1}%
+}
+\renewcommand{\markdownRendererHeadingTwo}[1]{
+	\subsection*{#1}
+}
+\renewcommand{\markdownRendererHeadingThree}[1]{
+	\subsubsection*{#1}
+}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.51,0,1.02}
+\definecolor{backcolour}{rgb}{0.93,0.93,0.93}
+
+\lstdefinestyle{mystyle}{
+  backgroundcolor=\color{backcolour},
+  commentstyle=\color{codegreen},
+  keywordstyle=\color{magenta},
+  %numberstyle=\tiny\color{codegray},
+  stringstyle=\color{codepurple},
+  basicstyle=\ttfamily\footnotesize,
+  breakatwhitespace=false,
+  breaklines=true,
+  captionpos=b,
+  keepspaces=true,
+  %numbers=left,
+  %numbersep=5pt,
+  numbers=none,
+  showspaces=false,
+  showstringspaces=false,
+  showtabs=false,
+  tabsize=2,
+  frame=single,
+}
+
+\lstset{style=mystyle}
+
+\renewcommand{\markdownRendererInputFencedCode}[2]{
+  \lstinputlisting[language=#2]{#1}
+  % \vspace{0.5cm}\\
+}
+
+\renewcommand{\poemtitlefont}{
+  \normalfont\large\itshape\centering
+}
+
+\pagestyle{fancy}

@@ -55,6 +55,13 @@ Teclado tristón, polvoso te ves.
 Cactus golpeó, marca Dino seis mil.
     Destino, mártir por corte wifí.
 </div>
+---
+<div class="poem">
+Carretera, espera un poco a esa rueda gemela.
+    Peatones tus riveras adornan;
+    despiertos, los ojos bien abiertos,
+no por el día sino por la pesadilla en bruma.
+</div>
 
 
 ## Varios
