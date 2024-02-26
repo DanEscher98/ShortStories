@@ -16,6 +16,7 @@ div.poem {
   text-align: left;
   overflow-x: scroll;
   width: 100%;
+  font-family: 'Crimson Pro', serif;
 }
 
 @media screen and (max-width: 600px) {
