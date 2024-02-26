@@ -62,6 +62,14 @@ Carretera, espera un poco a esa rueda gemela.
     despiertos, los ojos bien abiertos,
 no por el día sino por la pesadilla en bruma.
 </div>
+---
+<div class="poem">
+Arroyo inquieto, timbra en danza tu pequeña risa.
+Reverdece ese abrazo de sol que llevas con prisa.
+    Efímera tristeza de invierno,
+    Libraste al fin a retoño tierno.
+Irisado ondula tu cauce, cobijo de brisa.
+</div>
 
 
 ## Varios
