@@ -5,12 +5,12 @@ repo_url: https://github.com/DanEscher98/ShortStories
 copyright: Copyright &copy; 2020 - 2023 Danyiel Colin
 site_description: >-
   Cuentos cortos y un par de poemas
+docs_dir: pages
 
 theme:
   name: material
   font:
     text: Libre Baskerville
-  docs_dir: pages
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
