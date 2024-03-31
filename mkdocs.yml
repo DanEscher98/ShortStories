@@ -10,6 +10,7 @@ theme:
   name: material
   font:
     text: Libre Baskerville
+  docs_dir: pages
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
