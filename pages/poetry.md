@@ -1,5 +1,6 @@
 # Poesía
 
+
 ## Haikus y Tankas
 
 <div class="poem">
@@ -56,6 +57,7 @@ Cactus golpeó, marca Dino seis mil.
     Destino, mártir por corte wifí.
 </div>
 
+
 ## Metricas varias
 
 <div class="poem">
@@ -64,6 +66,7 @@ Carretera, espera un poco a esa rueda gemela.
     despiertos, los ojos bien abiertos,
 no por el día sino por la pesadilla en bruma.
 </div>
+
 
 
 ## Acrósticos
@@ -83,6 +86,26 @@ Reverdece ese abrazo de sol que llevas con prisa.
     Libraste al fin a retoño tierno.
 Irisado ondula tu cauce, cobijo de brisa.
 </div>
+
+
+## Acrósticos
+
+<div class="poem">
+Desfile de pétalo marino
+ante el rocío fino y prístino.
+    Figura pronto su abrazo el estío.
+    Nace laurel de tus sienes, sol mío.
+Eres calma, tierno torbellino.
+</div>
+
+<div class="poem">
+Arroyo inquieto, timbra tu danza pequeña risa.
+Renueva de primavera su vuelo, lleva prisa.
+    Efímera tristeza de invierno,
+    libraste al fin a retoño tierno.
+Iris perfumado tu cauce, cobijo de brisa.
+</div>
+
 
 ## Varios
 
