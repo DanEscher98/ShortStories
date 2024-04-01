@@ -1,0 +1,27 @@
+h1 + p:first-letter {
+	float: left;
+	font-size: 3em; 
+	font-weight: bold; 
+	margin: 5px 5px 5px 0;
+}
+
+div.poem {
+  display: flex;
+  position: relative;
+  margin: 0 auto;
+  margin-left: 20%;
+  margin-top: -20px;
+  margin-bottom: 20px;
+  white-space: pre;
+  text-align: left;
+  overflow-x: scroll;
+  width: 100%;
+  font-family: 'Crimson Pro', serif;
+}
+
+@media screen and (max-width: 600px) {
+  div.poem {
+    margin-left: 8%;
+    padding-right: 5%;
+  }
+}
