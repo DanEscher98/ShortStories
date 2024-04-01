@@ -64,6 +64,17 @@ Carretera, espera un poco a esa rueda gemela.
     despiertos, los ojos bien abiertos,
 no por el día sino por la pesadilla en bruma.
 </div>
+
+
+## Acrósticos
+
+<div class="poem">
+Desfile de pétalo marino
+ante el rocío fino y prístino.
+    Figura pronto su abrazo el estío.
+    Nace laurel de tus sienes, sol mío.
+Eres calma, tierno torbellino.
+</div>
 ---
 <div class="poem">
 Arroyo inquieto, timbra en danza tu pequeña risa.
@@ -72,7 +83,6 @@ Reverdece ese abrazo de sol que llevas con prisa.
     Libraste al fin a retoño tierno.
 Irisado ondula tu cauce, cobijo de brisa.
 </div>
-
 
 ## Varios
 
