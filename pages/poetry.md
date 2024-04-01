@@ -73,6 +73,24 @@ Reverdece ese abrazo de sol que llevas con prisa.
 Irisado ondula tu cauce, cobijo de brisa.
 </div>
 
+## Acrósticos
+
+<div class="poem">
+Desfile de pétalo marino
+ante el rocío fino y prístino.
+    Figura pronto su abrazo el estío.
+    Nace laurel de tus sienes, sol mío.
+Eres calma, tierno torbellino.
+</div>
+
+<div class="poem">
+Arroyo inquieto, timbra tu danza pequeña risa.
+Renueva de primavera su vuelo, lleva prisa.
+    Efímera tristeza de invierno,
+    libraste al fin a retoño tierno.
+Iris perfumado tu cauce, cobijo de brisa.
+</div>
+
 
 ## Varios
 
