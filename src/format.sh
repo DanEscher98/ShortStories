@@ -3,8 +3,8 @@
 WORKDIR=pages
 
 function next_num() {
-  NUM=$(bc <<< "$(ls $WORKDIR | wc -l) + 1")
-  echo "$NUM"
+  NUM=$(bc <<< "`find $WORKDIR -maxdepth 1 -name "*_*.md" | wc -l` + 1")
+  echo `printf "%02x\n" $NUM | tr [a-z] [A-Z]`
 }
 
 function simple_note() {
@@ -15,7 +15,7 @@ function simple_note() {
 	if [ ! -z "$FILE_NAME" ]; then
 		echo "$FILE_NAME"
 	else
-    NUM=$(bc <<< "$(ls $WORKDIR | wc -l) + 1")
+    NUM=`next_num`
 
     NEW_FILE="$WORKDIR/$NUM"_"$CAMEL_NAME.md"
 
@@ -93,3 +93,37 @@ function to_camelcase() {
     | tr '[:upper:]' '[:lower:]' \
     | sed -r 's/(^|_)([a-z])/\U\2/g'
 }
+
+function proc_mermaid() {
+  # dir -> dir 
+  alias mmdc="docker run --rm -u `id -u`:`id -g` -v tmp/img:/data minlag/mermaid-cli"
+
+  for md_file in $(ls $WORKDIR/*.md); do
+    # iterator of mermaid blocks
+    for mermaid_block in mmdblocks; do
+      echo ''     
+    done
+
+  done
+  # For each md file
+  #   - find all mermaid blocks
+  #   For each mermaid block
+  #     - NAME=$file_$block
+  #     - MMD=mermaid/$NAME.mmd
+  #     - IMG=img/$NAME.png
+  #     - echo $mermaid.contents > $MMD
+  #     - TITLE="$mermaid.accTitle" or ""
+  #     - DESCR="$mermaid.accDescr" or "diagram"
+  #     - mmdc --input $MMD --output $IMG -b transparent -t dark
+  #     - replace "```mermaid ... ```" "![$DESCR](./$IMG $TITLE)"
+  # - file.md -> file.md + img/*.svg
+  # 
+}
+
+# How much memory do you have? Answer type BITS
+# How many `memory patterns` can we store in a `recurrent network of a given size` such that they are `stable states of the network`?
+# Associative Memory: the ability of a system to sort of "pattern-autocomplete"
+# Let a memory system be a system that after having being in a certain state (a configuration) it has the ability to return to that state later on
+# A neural network is a system with a pattern of activty that dynamically evolves. A network such that it would have a prefered state and would return
+# to that state over time if it was perturbated, then it could be reasonably be qualified as memory (crushed plastic bottle)
+# ST = (memories) set of posible stable states

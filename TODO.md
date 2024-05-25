@@ -10,6 +10,7 @@
 - Rocio Meza : Aurora, telegrafo, acuñar, entretenimiento, cabeza
 - Thea Leake : Duck, MacBook, hydrogen, hairbrush, stiletto
 - Gabriele Miotti : Casa, ruccola, fusibile, cuscinetto, giocattolo
+- Adelaida Garza: Mujer, manzanilla, estrellas, bosque, melancolia
 
 ## Lista de cuentos
 1. Sala minimalista con alfombra

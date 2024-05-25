@@ -1,6 +1,7 @@
 TARGET  := `basename $PWD`
 FLAGS   := '--shell-escape --interaction=nonstopmode'
 EDITOR  := 'lvim'
+UTILS   := './src/format.sh'
 
 # Open the last modified file
 last:
@@ -8,18 +9,18 @@ last:
 
 # New entry with date as name, default editor `vi`
 note:
-  @{{EDITOR}} `bash -c "source ./format.sh; daily_note"`
+  @{{EDITOR}} `bash -c "source {{UTILS}}; daily_note"`
 
 # New entry with a given name, default editor `vi`
 page NAME:
-  @{{EDITOR}} `bash -c "source ./format.sh; simple_note {{NAME}}"`
+  @{{EDITOR}} `bash -c "source {{UTILS}}; simple_note {{NAME}}"`
 
 # Compiles the main.tex to pdf
 compile:
-  @bash -c "source ./format.sh; remove_name"
+  @bash -c "source {{UTILS}}; remove_name"
   pdflatex {{FLAGS}} main.tex 1> /dev/null
   @pdflatex {{FLAGS}} main.tex 1> /dev/null # 2nd compilation for TOC
-  @bash -c "source ./format.sh; restore_name"
+  @bash -c "source {{UTILS}}; restore_name"
   @mv main.pdf {{TARGET}}.pdf
   @cp {{TARGET}}.pdf `echo $HOME/Downloads/`
   @echo -e "📖 {{TARGET}}.pdf \e[32mis ready\e[0m"
@@ -38,7 +39,7 @@ run *NUM: compile clear
 
 # Restore complete names from src/titles.txt
 restore:
-  @bash -c "source ./format.sh; restore_name"
+  @bash -c "source {{UTILS}}; restore_name"
   @echo -e "file names \e[32mrestored\e[0m"
 
 # Remove unnecesary files after compile
