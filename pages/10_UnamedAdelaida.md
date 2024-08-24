@@ -8,10 +8,10 @@
 ---
 
 Toma un pocillo de cerámica, coloca una porción de azul cobalto, un poco de
-verde esmeralda, gotitas de trementina. Lo mezcla con cuidado, su callosas
-manos tiemblan por intervalos anunciando su ocaso. Toma un pincel de marta,
-empieza a probarlo en trazos largos; textura marina para un cielo que ya
-anochece. 
+verde esmeralda, gotitas de trementina. Lo mezcla con cuidado, sus callosas
+manos luchando contra una rigidez reptante. Toma un pincel de marta y empieza a
+probarlo en trazos largos, leves espasmos por intervalos. Textura marina para
+un cielo con la noche en ciernes.
 
 -- Además la semana que viene tengo cita en el _spa_. El que nos había
 recomendado Laura. Deberíamos ir juntas. Ay, te he notado tan estresada
@@ -20,7 +20,7 @@ que me encanta ...
 
 -- De manzanilla está bien. Sí vayamos juntas. Creo está cerca  
 
--- E (manzanilla)
+-- E
 
 Text (bosque, melancolia)
 

@@ -55,7 +55,7 @@ Teclado tristón, polvoso te ves.
     ¿Perdiste el space? Tu culpa no es.
 Cactus golpeó, marca Dino seis mil.
     Destino, mártir por corte wifí.
-</div>
+</divbn7 6                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           b7                                                                                                                                     
 
 
 ## Metricas varias
@@ -84,6 +84,42 @@ Renueva de primavera su vuelo, lleva prisa.
     Efímera tristeza de invierno,
     libraste al fin a retoño tierno.
 Iris perfumado tu cauce, cobijo de brisa.
+</div>
+
+<div class="poem">
+Alusión a hoguera en danza,
+La comisura sonrisa.
+    Igneo aleteo, inquieto sueño,
+    Secreto de un palpitar sureño.
+Alebrije donde avanza.
+</div>
+
+<div class="poem">
+<!--
+ABBA
+CDDC
+ABCCBA
+.
+Question: 
+Ella: vivaz, lumbre, inquieta, flecha, 
+Permanece libre, sobrevuela las cadenas terrenas
+-->
+
+R
+E
+¿C
+U
+E
+R
+¿D
+A
+
+Zafiro
+A
+R
+I
+N
+A
 </div>
 
 
