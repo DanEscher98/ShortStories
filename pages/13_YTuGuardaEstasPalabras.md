@@ -1,10 +1,10 @@
 # Y tu ... guarda éstas palabras
 
-Las calles sin pavimento, polvorín en remolino. La niña corria tirando de la cuerda que diera vida a un pájaro de papel. Su madre leia el viejo libro, ya amarillentas por el decaimiento de la celulosa. La luz daba sobre una copia mal impresa del Cristo de Velázquez, esta un poco inclinado del lado izquierdo y tenia polvo sobre el marco. Se ajustó los lentes para hallar mejor la referencia, tornó la página mil doscientos setenta y uno. Era Daniel 12:2 diciendo que _muchos de los que duermen en el polvo de la tierra despertarán, unos para la vida eterna y otros ..._.
+Las calles sin pavimento, polvorín en remolino. La niña corria tirando de la cuerda que diera vida a un pájaro de papel. Su madre leia el viejo libro, hojas algo amarillentas por el decaimiento de celulosa. La luz daba sobre una copia mal impresa del Cristo de Velázquez, estaba éste un poco inclinado del lado izquierdo y tenia polvo sobre el marco. Se ajustó los lentes para hallar mejor la referencia, tornó la página mil doscientos setenta y uno. Era Daniel 12:2 diciendo que _muchos de los que duermen en el polvo de la tierra despertarán, unos para la vida eterna y otros ..._.
 
 -- _¿Pero cuándo, cuándo será que nos elevemos del polvo?_
 
-Pasó sonando su campana un recolector de fierros viejos. La niña dejó de correr un poco para ver al caballito tirar del carretón. Tapó sus ojitos del sol que comenzaba a ocultarse. El papalote veía la parvada a cien metros de distancia. ¿No acaso si volara más alto sería uno de ellos?
+Pasó sonando su campana un recolector de fierros viejos. La niña dejó de correr un poco para ver al caballito tirar del carretón. Tapó sus ojitos del sol que comenzaba a ocultarse. El papalote veía la parvada a cien metros de distancia. _¿No acaso si volara más alto sería uno de ellos?_
 
 -- ¡Paulita! hijita, entra ya por favor.
 
