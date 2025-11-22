@@ -13,6 +13,7 @@
 - Adelaida Garza: Mujer, manzanilla, estrellas, bosque, melancolia
 
 ## Lista de cuentos
+
 1. Sala minimalista con alfombra
 2. Camino de setos : Shakti
 3. El cántaro calcinado : Marian
@@ -22,3 +23,5 @@
 7. Edificio gris : Marcella
 8. Mosaico en cuatro estampas
 9. Laboratorio tres : Diego Ultraman
+10. Cinco para las tres am: Yaretzi Vargas
+11. Y tu ... guarda éstas palabras: Diego Lozano

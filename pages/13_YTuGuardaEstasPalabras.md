@@ -1,11 +1,11 @@
 # Y tú ... guarda éstas palabras
 
 Las calles sin pavimento, polvorín en remolino. La niña corría tirando de la
-cuerda que diera vida a un pájaro de papel. Su madre leía el viejo libro, hojas
-algo amarillentas por el decaimiento de celulosa. La luz que cruzaba la ventana
-entreabierta, daba sobre una copia mal impresa del Cristo de Velázquez. Estaba
+cuerda que diera vida a un pájaro de papel. Su madre leía, hojas amarillentas
+por el decaimiento de celulosa. Un viento quedo y la ventana entreabierta. La
+luz entrante daba sobre una copia mal impresa del Cristo de Velázquez. Estaba
 éste un poco inclinado al lado izquierdo. No había tocado el platito ni su café
-ya ahora frío. Se ajustó los lentes para hallar mejor la referencia, tornó
+desde temprano. Se ajustó los lentes para hallar mejor la referencia, tornó
 otras tantas páginas, llegó a la mil seiscientos treinta y dos. Era Daniel 12:2
 diciendo que _muchos de los que duermen en el polvo de la tierra despertarán,
 unos para la vida eterna y otros para..._.
@@ -29,7 +29,7 @@ sobre el platito, _¿valdría la pena intentar robarla?_ Mientras la madre se
 cubria el rostro. Ya la luz declinaba, de a poco se ensombrecía el cuadro con
 el marco tamizado en polvo. El carretón se perdía dando vuelta en la esquina.
 
--- _¿Por qué te lo llevaste Dios mio? ¿Por qué a mi pequeñito?_
+-- _¿Por qué Dios mio? ¿Por qué a mi pequeñito?_
 
 E intentaba contener un sollozo, así como lo intentaba contener desde hacía
 ocho meses. Había violines, también un poco de estática, Sol menor, una antena
