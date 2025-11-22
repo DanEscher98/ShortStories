@@ -7,7 +7,7 @@ mal impresa del Cristo de Velázquez. Estaba éste un poco inclinado del lado
 izquierdo y tenia polvo sobre el marco. Se ajustó los lentes para hallar mejor
 la referencia, tornó la página mil doscientos setenta y uno. Era Daniel 12:2
 diciendo que _muchos de los que duermen en el polvo de la tierra despertarán,
-unos para la vida eterna y otros ..._.
+unos para la vida eterna y otros para..._.
 
 -- _¿Pero cuándo, cuándo será que nos levantes de éste polvo?_
 
@@ -25,7 +25,8 @@ _¿Acaso si volara más alto no sería uno de ellos?_
 La conductora de la radio anunció a continuación el _Adagio de Albinoni_. Un
 pajarillo al borde de la ventana pensaba, contemplaba el pedacito de galleta,
 _¿valdría la pena intentar robarla?_ Mientras la madre se cubria el rostro. Ya
-la luz declinaba, de a poco se ensombrecía el cuadro.
+la luz declinaba, de a poco se ensombrecía el cuadro. El carretón se perdía
+dando vuelta en la esquina.
 
 -- _¿Por qué te lo llevaste Dios mio? ¿Por qué a mi pequeñito?_
 
@@ -33,4 +34,4 @@ E intentaba contener un sollozo, así como lo intentaba contener desde hacía
 ocho meses. Había violines, también un poco de estática, sol menor, una antena
 que no sabía dónde apuntar. ¿Pero habría un propósito? Un "por qué" que
 enhebrara en su narrativa lo sucedido. ¿Y si sólo un fondo negro?, pigmento de
-hollín y fosfato de calcio, como el que usara Diego para pintar su crucificado.
+hollín y fosfato de calcio, como el que usara Diego al pintar su crucificado.
