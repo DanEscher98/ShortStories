@@ -1,4 +1,4 @@
-# Y tu ... guarda éstas palabras
+# Y tú ... guarda éstas palabras
 
 Las calles sin pavimento, polvorín en remolino. La niña corría tirando de la
 cuerda que diera vida a un pájaro de papel. Su madre leía el viejo libro, hojas
