@@ -10,7 +10,7 @@ otras tantas páginas, llegó a la mil seiscientos treinta y dos. Era Daniel 12:
 diciendo que _muchos de los que duermen en el polvo de la tierra despertarán,
 unos para la vida eterna y otros para..._.
 
--- _¿Pero cuándo, cuándo será que nos levantes de éste polvo?_
+-- _¿Pero cuándo, cuándo será ésto?_
 
 Pasó sonando su campana un recolector de fierros viejos. La niña dejó de correr
 un poco para ver al caballito tirar del carretón. Tapó sus ojitos del sol que
