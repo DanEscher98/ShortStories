@@ -15,8 +15,8 @@ Mientras iba por el pasillo, cruzó como ráfaga ese gato pinto de un cuarto a
 otro. Aún seguía tocando música con su cascabel al cuello. Trató de ignorarlo y
 terminar pronto aquello.
 
--- "*Si tan sólo no se hubiera quebrado el foco de mi lámpara. Por lo menos se
-filtran varios rayos de luz.*" Introdujo la llave, giró la perilla. Veinte
+-- "_Si tan sólo no se hubiera quebrado el foco de mi lámpara. Por lo menos se
+filtran varios rayos de luz._" Introdujo la llave, giró la perilla. Veinte
 minutos después, varias gavetas se hallaban abiertas y papeles regados por la
 prisa. Estaba él sentado, con la vista fija en la fotografía buscada.
 

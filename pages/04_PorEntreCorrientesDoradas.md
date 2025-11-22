@@ -10,7 +10,6 @@ tejidas. Sus pies descalzos dejan tenues huellas en el manto de hojas.
 entonces un brillante sol. ¿Cómo lo iba a saber yo? En un momento se tornó de
 tinta. Es el cielo un calamar tan miedoso."
 
-
 ![RelojEsponjoso](img/corrientes-b.png){ width="150" align=right }
 -- "Tal vez, pero entonces no podrías haberme prestado tu sombrero. Para
 cubrirme el rostro, para dormir apacible en aquel prado. Toma, llevo guardadas
@@ -20,7 +19,6 @@ varias hogazas todavía. Siguen crujientes y aún les giran sus manecillas."
 andar de noche. ¿Pudiste ver el fin de nuestro andar? Al menos las luciérnagas
 nadan fielmente a nuestro lado. Gracias ... por el tiempo."
 
-
 ![Fumarolas marinas](img/corrientes-c.png){ width="200" align=left }
 Imponentes torres los rodean, fumarolas marinas de cuyas humeantes volutas caen
 apacibles hojas. Hambre no es lo que tenía, ni siquiera real cansancio. Tan
@@ -28,7 +26,6 @@ sólo la incertidumbre de si algún día llegarían. Saboreó el momento. Era su
 preferido, tenía pasas. Estaba endulzado con miel y había sido horneado a fuego
 lento. Alzó la mirada, miró a su costado. Tan oceánico abismo podía ser la
 noche.
-
 
 -- "Creo que olvidé el sueño. Pero era feliz pues mirábamos al unísono. Oh, era
 a través de la claraboya de un navío naufragado, que hacia el horizonte
