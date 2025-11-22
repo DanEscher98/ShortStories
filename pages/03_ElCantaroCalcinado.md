@@ -3,7 +3,7 @@
 <!--A Marian-->
 
 -- "Son como rasguños sobre una pizarra, pero con timbre de gotas de
-    lluvia."
+lluvia."
 
 Se recargó un poco más en la silla y siguió viendo tras la ventana.
 Afuera estaba aún húmeda la calle. Combinaba con un hermoso
@@ -13,7 +13,7 @@ observaba su colección de porcelana que, a pesar de estar
 quebrada y llena de tizne, conservaba aún sus colores.
 
 -- "Ni siquiera pude encender el agua para cocer el arroz. Me pregunto
-    cómo llegó hasta aquí."
+cómo llegó hasta aquí."
 
 Su teclado estaba demasiado sucio como para grabar siquiera un
 sencillo recuerdo. Había olvidado su antiguo oficio para ser ahora
@@ -24,7 +24,7 @@ encharcados. Y decidió no quitar el renuevo. Decidió dejar que el
 verde se nutriera de tierra entre las teclas negras.
 
 -- "Al menos puedo sentir como un calor, una cálida caricia frente al
-    amanecer."
+amanecer."
 
 En el noveno piso, el de las ventanas quebradas y pasillos vacíos, se
 pasea una tranquilidad descarnada. Intenta removerse las sábanas de
@@ -34,4 +34,4 @@ estaba muerto. Pero ya no había mas que polvo. Cenizas de crematorio.
 Ahora sólo le queda la esperanza de hallar el cómo grabar memorias con
 sus espectrales dedos de gasa y retoñar él también.
 
--- "*¿Habrá ... tenido nombre el dragón?*"
+-- "_¿Habrá ... tenido nombre el dragón?_"

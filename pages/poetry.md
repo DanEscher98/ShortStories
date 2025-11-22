@@ -1,6 +1,5 @@
 # Poesía
 
-
 ## Haikus y Tankas
 
 <div class="poem">
@@ -39,7 +38,6 @@ Su arco tensó.
 consumió a la flor.
 </div>
 
-
 ## Limericks y clerihews
 
 <div class="poem">
@@ -55,8 +53,7 @@ Teclado tristón, polvoso te ves.
     ¿Perdiste el space? Tu culpa no es.
 Cactus golpeó, marca Dino seis mil.
     Destino, mártir por corte wifí.
-</divbn7 6                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           b7                                                                                                                                     
-
+</div>
 
 ## Metricas varias
 
@@ -66,7 +63,6 @@ Carretera, espera un poco a esa rueda gemela.
     despiertos, los ojos bien abiertos,
 no por el día sino por la pesadilla en bruma.
 </div>
-
 
 ## Acrósticos
 
@@ -95,33 +91,21 @@ Alebrije donde avanza.
 </div>
 
 <div class="poem">
-<!--
-ABBA
-CDDC
-ABCCBA
-.
-Question: 
-Ella: vivaz, lumbre, inquieta, flecha, 
-Permanece libre, sobrevuela las cadenas terrenas
--->
-
-R
-E
-¿C
-U
-E
-R
-¿D
-A
-
-Zafiro
-A
-R
-I
-N
-A
+Yacimiento acuífero, secreto que hallase
+    un errante con anhelo de sosegar su andar.
+Arbóreo contorno de coníferas piñoneras,
+    hogar del jilguero y su noble cantar.
+Recuerdo y siento la vereda muda
+    de quien con cariño muerde.
+Era tu danza suave con el viento,
+    linda hojita de siempre-verde.
+Tornaríase en sonrisa la luna si te viera
+    y en rizo la nube en su candor.
+Zarcillos de lavanda te traerá Kairos
+    cuando vuelva primavera con su rubor.
+Incluso el más crudo invierno llega a ceder
+    al bostezo matinal de una flor.
 </div>
-
 
 ## Varios
 
