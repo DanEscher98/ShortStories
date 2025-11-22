@@ -9,4 +9,3 @@ redonda, con textura dórica pero descarnada de materia. Tan sólo forma. Está 
 el medio del solar, como conteniendo las últimas fuerzas del fallecido. El
 cuadro del patio representaba una sencilla escena nocturna. Era Jacob al borde
 de un peldaño.
-
