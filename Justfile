@@ -1,6 +1,6 @@
 TARGET  := `basename $PWD`
 FLAGS   := '--shell-escape --interaction=nonstopmode'
-EDITOR  := 'lvim'
+EDITOR  := 'nvim'
 UTILS   := './src/format.sh'
 
 # Open the last modified file
